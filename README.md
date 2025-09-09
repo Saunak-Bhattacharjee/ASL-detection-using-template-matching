@@ -1,4 +1,4 @@
-# CS585_Assignment2
+
 This repository contains a project based on American Sign Language detection using template matching. 
 Link to the drive containing the dataset captured and used: https://drive.google.com/drive/folders/1ocKtoNyEMHJC36oHiU6UhD0JIjiLqV1P?usp=sharing
 
